@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artem-ye
 - 👀 I’m interested in backend|frontend: js, react, nodejs, patterns
-- 🌱 I’m currently learning forntend technology
+- 🌱 I’m currently learning async js, backend
 - 💞️ I’m looking to collaborate on intersting people
 - 📫 How to reach me ...
 
